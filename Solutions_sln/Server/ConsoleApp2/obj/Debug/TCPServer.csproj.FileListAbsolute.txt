@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\user\Downloads\RestaurantManager2018-master\Prototype\Server\ConsoleApp2\obj\Debug\TCPServer.csproj.AssemblyReference.cache
