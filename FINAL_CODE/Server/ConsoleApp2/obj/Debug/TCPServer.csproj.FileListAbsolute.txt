@@ -1,0 +1,13 @@
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\fabio\Source\Repos\RestaurantManager2018\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\whiteangel\source\repos\RestaurantProject\Prototype\Server\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
